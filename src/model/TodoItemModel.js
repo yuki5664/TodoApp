@@ -1,3 +1,4 @@
+// ユニークなIDを管理する変数
 let todoIdx = 0;
 
 export class TodoItemModel {
